@@ -32,6 +32,9 @@ Please visit http://mywebsql.net/docs for troubleshooting and support.
 
 == Changelog ==
 
+= 1.3.5 =
+* Codebase updated to version 3.5 for the plugin
+
 = 1.3.4 =
 * Codebase updated to version 3.4 for the plugin
 
